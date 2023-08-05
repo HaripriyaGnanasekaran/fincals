@@ -1,0 +1,94 @@
+[
+  {
+    "year": 2000,
+    "free_cash_flow": 191
+  },
+  {
+    "year": 2001,
+    "free_cash_flow": 384
+  },
+  {
+    "year": 2002,
+    "free_cash_flow": 318
+  },
+  {
+    "year": 2003,
+    "free_cash_flow": 493
+  },
+  {
+    "year": 2004,
+    "free_cash_flow": 1210
+  },
+  {
+    "year": 2005,
+    "free_cash_flow": 2026
+  },
+  {
+    "year": 2006,
+    "free_cash_flow": 2684
+  },
+  {
+    "year": 2007,
+    "free_cash_flow": 3552
+  },
+  {
+    "year": 2008,
+    "free_cash_flow": 4564
+  },
+  {
+    "year": 2009,
+    "free_cash_flow": 5506
+  },
+  {
+    "year": 2010,
+    "free_cash_flow": 8509
+  },
+  {
+    "year": 2011,
+    "free_cash_flow": 11376
+  },
+  {
+    "year": 2012,
+    "free_cash_flow": 11851
+  },
+  {
+    "year": 2013,
+    "free_cash_flow": 9436
+  },
+  {
+    "year": 2014,
+    "free_cash_flow": 10772
+  },
+  {
+    "year": 2015,
+    "free_cash_flow": 13349
+  },
+  {
+    "year": 2016,
+    "free_cash_flow": 19478
+  },
+  {
+    "year": 2017,
+    "free_cash_flow": 18460
+  },
+  {
+    "year": 2018,
+    "free_cash_flow": 19478
+  },
+  {
+    "year": 2019,
+    "free_cash_flow": 30972
+  },
+  {
+    "year": 2020,
+    "free_cash_flow": 42843
+  },
+  {
+    "year": 2021,
+    "free_cash_flow": 67012
+  },
+  {
+    "year": 2022,
+    "free_cash_flow": 60010
+  }
+]

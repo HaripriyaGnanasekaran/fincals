@@ -1,0 +1,90 @@
+[
+    {
+        "year": 2000,
+        "free_cash_flow": -0.37
+    },
+    {
+        "year": 2001,
+        "free_cash_flow": -1.08
+    },
+    {
+        "year": 2002,
+        "free_cash_flow": 0.10
+    },
+    {
+        "year": 2003,
+        "free_cash_flow": 0.30
+    },
+    {
+        "year": 2004,
+        "free_cash_flow": 0.63
+    },
+    {
+        "year": 2005,
+        "free_cash_flow": 1.17
+    },
+    {
+        "year": 2006,
+        "free_cash_flow": 1.57
+    },
+    {
+        "year": 2007,
+        "free_cash_flow": 2.31
+    },
+    {
+        "year": 2008,
+        "free_cash_flow": 2.98
+    },
+    {
+        "year": 2009,
+        "free_cash_flow": 3.01
+    },
+    {
+        "year": 2010,
+        "free_cash_flow": 2.48
+    },
+    {
+        "year": 2011,
+        "free_cash_flow": 2.02
+    },
+    {
+        "year": 2012,
+        "free_cash_flow": 0.68
+    },
+    {
+        "year": 2013,
+        "free_cash_flow": 1.19
+    },
+    {
+        "year": 2014,
+        "free_cash_flow": 1.86
+    },
+    {
+        "year": 2015,
+        "free_cash_flow": 7.30
+    },
+    {
+        "year": 2016,
+        "free_cash_flow": 9.70
+    },
+    {
+        "year": 2017,
+        "free_cash_flow": 8.31
+    },
+    {
+        "year": 2018,
+        "free_cash_flow": 11.59
+    },
+    {
+        "year": 2019,
+        "free_cash_flow": 25.84
+    },
+    {
+        "year": 2020,
+        "free_cash_flow": 31.87
+    },
+    {
+        "year": 2021,
+        "free_cash_flow": 26.4
+    }
+]
